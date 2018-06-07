@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CIRCULAR_AP", "CIRCULAR_AP\CIRCULAR_AP.csproj", "{193E4775-0BCF-426E-9D9D-00F1621D869E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{193E4775-0BCF-426E-9D9D-00F1621D869E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{193E4775-0BCF-426E-9D9D-00F1621D869E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{193E4775-0BCF-426E-9D9D-00F1621D869E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{193E4775-0BCF-426E-9D9D-00F1621D869E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF7FC33A-A5DB-465D-90D9-258C74D5E40A}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+D:\New folder\CIRCULAR_AP\CIRCULAR_AP\bin\Debug\CIRCULAR_AP.exe.config
+D:\New folder\CIRCULAR_AP\CIRCULAR_AP\bin\Debug\CIRCULAR_AP.exe
+D:\New folder\CIRCULAR_AP\CIRCULAR_AP\bin\Debug\CIRCULAR_AP.pdb
+D:\New folder\CIRCULAR_AP\CIRCULAR_AP\obj\Debug\CIRCULAR_AP.csprojResolveAssemblyReference.cache
+D:\New folder\CIRCULAR_AP\CIRCULAR_AP\obj\Debug\CIRCULAR_AP.Form1.resources
+D:\New folder\CIRCULAR_AP\CIRCULAR_AP\obj\Debug\CIRCULAR_AP.Properties.Resources.resources
+D:\New folder\CIRCULAR_AP\CIRCULAR_AP\obj\Debug\CIRCULAR_AP.csproj.GenerateResource.cache
+D:\New folder\CIRCULAR_AP\CIRCULAR_AP\obj\Debug\CIRCULAR_AP.csproj.CoreCompileInputs.cache
+D:\New folder\CIRCULAR_AP\CIRCULAR_AP\obj\Debug\CIRCULAR_AP.exe
+D:\New folder\CIRCULAR_AP\CIRCULAR_AP\obj\Debug\CIRCULAR_AP.pdb
